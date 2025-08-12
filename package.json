@@ -1,6 +1,6 @@
 {
   "name": "node-linker-pro",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Keep node_modules out of cloud sync folders by linking them to a local cache. Cross-platform. Includes global npm setup command.",
   "bin": {
     "linker-node-modules": "node-linker-pro.mjs",
