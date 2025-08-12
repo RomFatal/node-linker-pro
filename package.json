@@ -1,0 +1,31 @@
+{
+  "name": "linker-node-modules",
+  "version": "1.0.0",
+  "description": "Keep node_modules out of cloud sync folders by linking them to a local cache. Cross-platform. Includes global npm setup command.",
+  "bin": {
+    "linker-node-modules": "link-node-modules.mjs",
+    "npm-setup": "npm-setup.mjs"
+  },
+  "type": "module",
+  "license": "MIT",
+  "keywords": [
+    "node_modules",
+    "link",
+    "symlink",
+    "junction",
+    "cache",
+    "cloud",
+    "onedrive",
+    "google-drive",
+    "backup",
+    "npm"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "author": "Your Name",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RomFatal/linker-node-modules.git"
+  }
+}
