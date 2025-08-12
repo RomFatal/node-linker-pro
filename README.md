@@ -144,5 +144,5 @@ MIT — Free to use, modify, and share.
 
 ---
 
-- **npm:** [linker-node-modules on npm](https://www.npmjs.com/package/linker-node-modules)  
-- **GitHub:** [Your repository link here](https://github.com/yourname/yourrepo)
+- **npm:** [linker-node-modules on npm](https://www.npmjs.com/package/node-linker-pro)  
+- **GitHub:** [Your repository link here](https://github.com/RomFatal/node-linker-pro)

@@ -4,7 +4,7 @@ import { fileURLToPath } from "url";
 import { dirname, join } from "path";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const linker = join(__dirname, "link-node-modules.mjs");
+const linker = join(__dirname, "node-linker-pro.mjs");
 
 function run(cmd, args = []) {
   return new Promise((resolve, reject) => {
